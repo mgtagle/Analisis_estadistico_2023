@@ -3,7 +3,7 @@ Almacenar mi código de el curso de Análisis estadístico
 
 
 + Semana 1: Preparaación 
-+ lista 2
++ Semana 2: 
 
 
 **hola**
