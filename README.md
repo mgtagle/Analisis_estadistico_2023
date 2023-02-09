@@ -2,7 +2,7 @@
 Almacenar mi código de el curso de Análisis estadístico 
 
 
-+ Semana 1: Preparaación y arranque de curso (Creación del primer repositorio y proyecto de clase).
++ Semana 1: Preparación y arranque de curso (Creación del primer repositorio y proyecto de clase).
 + lista 2
 
 
